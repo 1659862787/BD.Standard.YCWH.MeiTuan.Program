@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "path": "BD.Standard.YCWH.ProgramParse\\BD.Standard.YCWH.ProgramParse.sln",
+    "projects": [
+      "..\\BD.Standard.YCWH.ProgramUploadERP\\BD.Standard.YCWH.ProgramUploadERP.csproj",
+      "..\\JanTingQi\\JanTingQi\\JanTingQi.csproj",
+      "..\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "BD.Standard.YCWH.ProgramParse.csproj"
+    ]
+  }
+}
